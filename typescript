@@ -33,4 +33,63 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 [?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git add .
-[?2004l[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git commit ""T"h"i"s" "i"s" "t"h"e" "[1@-[1@m[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[1P"t"h"e" "f"i"r"s"t" "c"o"m"m"i"t" "a"n"d" "I" "a"d"d" [A]
+[?2004l[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git commit ""T"h"i"s" "i"s" "t"h"e" "[1@-[1@m[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[1P"t"h"e" "f"i"r"s"t" "c"o"m"m"i"t" "a"n"d" "I" "a"d"d" [A]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "t"h"r"e"e" "t"[1P"f"i"l"e"s" "[1P":" "t"y"r"[1P"[1P"r"y"."p"y"," "t"r"y"1"."p"y"[1P"[1P"c"," "t"y"p"e"s"c"r"i"p"t"
+[?2004l[master (root-commit) 12a65bd] This is the first commit and I add three files: try.py, try1.c, typescript
+ 3 files changed, 30 insertions(+)
+ create mode 100644 try.py
+ create mode 100644 try1.c
+ create mode 100644 typescript
+[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git branch
+[?2004l[?1h=* [32mmaster[m[m
+[K[?1l>[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git checkout -b wk_06
+[?2004lSwitched to a new branch 'wk_06'
+[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git branch
+[?2004l[?1h=  master[m[m
+* [32mwk_06[m[m
+[K[?1l>[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ ls
+[?2004l[0m[01;32mtry.py[0m  [01;32mtry1.c[0m  [01;32mtypescript[0m
+[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ m[Ktouch README
+[?2004l[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git status
+[?2004lOn branch wk_06
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git add .
+[?2004l[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git commit -m ""A"d"d" "R"E"A"D"M"E" "[1P" "a"n"d" "u"p"d"a"t"e" "t"e"h" "t"y"p"e"s"c"r"i" [A]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp"t"
+[?2004l[wk_06 a3dc233] Add README and update teh typescript
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+ create mode 100644 README
+[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git push -u origin[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit remote add origin https://github.com/Sethanyx/AAE718.git
+[?2004l[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git push -u origin wk_06
+[?2004lUsername for 'https://github.com': Sethanyx
+Password for 'https://Sethanyx@github.com': 
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  11% (1/9)Writing objects:  22% (2/9)Writing objects:  33% (3/9)Writing objects:  44% (4/9)Writing objects:  55% (5/9)Writing objects:  66% (6/9)Writing objects:  77% (7/9)Writing objects:  88% (8/9)Writing objects: 100% (9/9)Writing objects: 100% (9/9), 2.47 KiB | 211.00 KiB/s, done.
+Total 9 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), done.[K
+To https://github.com/Sethanyx/AAE718.git
+ * [new branch]      wk_06 -> wk_06
+Branch 'wk_06' set up to track remote branch 'wk_06' from 'origin'.
+[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git branch
+[?2004l[?1h=  master[m[m
+* [32mwk_06[m[m
+[K[?1l>[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git checkout -b wk_06_new
+[?2004lSwitched to a new branch 'wk_06_new'
+[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ git branch
+[?2004l[?1h=  master[m[m
+  wk_06[m[m
+* [32mwk_06_new[m[m
+[K[?1l>[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ ls
+[?2004l[0m[01;32mREADME[0m  [01;32mtry.py[0m  [01;32mtry1.c[0m  [01;32mtypescript[0m
+[?2004h]0;syx@DESKTOP-QVA55FT: /mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[01;32msyx@DESKTOP-QVA55FT[00m:[01;34m/mnt/g/Disk D/UWMadison/Summer 2025/AAE718/wk_06[00m$ nano try.py
+[?2004l[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;53H(B[0;7m[ Read 4 lines ](B[m[H(B[0;7m  GNU nano 6.2                                             try.py                                                       [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B
